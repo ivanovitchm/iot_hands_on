@@ -1,17 +1,17 @@
-# Experimentações da Internet das Coisas
+# A first hands on course about Internet of Things
 
-Este curso tem como objetivo fomentar os primeiros passos em experimentos práticos na Internet das Coisas. O curso tem uma carga-horária de 16 horas. Idealmente, pode ser realizado em dois dias. 
+This course aims to promote the first steps in practical experiments on the Internet of Things. The course has a workload of 16 hours. Ideally, it can be done in two days.
 
-Os seguintes tópicos são abordados:
-- Tendências tecnológicas
-- Plataformas embarcadas (BeagleBone Black)
+The following topics are covered:
+- Technological trends
+- Embedded platforms (BeagleBone Black)
 - GPIO, ADC, PWM
-- Comunicação serial e bluetooth
-- Redes Automotivas
+- Serial and bluetooth communication
+- Automotive Networks
 - OBD-II
-- Simulação OBD-II
-- App Android para coleta de dados veiculares
-- Experimentação 
-- Visualização de Dados com Anaconda & Jupyter
-- Oportunidades & Inovação
+- OBD-II simulation
+- Android app for collecting vehicle data
+- Experimentation
+- Data Visualization with Anaconda & Jupyter
+- Opportunities & Innovation
 
